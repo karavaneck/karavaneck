@@ -1,3 +1,4 @@
+This readme details how I learned to code. Hopefully, the commits get more interesting as time goes on. 
 # README DAY 1
 
 # STARTING FROM THE TOP NOW  
