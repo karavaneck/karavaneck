@@ -1,3 +1,10 @@
+# README DAY 1
+
+# STARTING FROM THE TOP NOW  
+This way the newest code that I add to this Readme will be at the top. I left off with the whole emoji tangent and now I'm getting serious.  
+After each topic or chapter, I will return to the top of the page.  
+I will add a new heading each time I do so.  
+
 ## Hi there 👋 I have no clue how to add an emoji to my code; GitHub did this automatically. 
 Does this command make things invisible? <!-- test
 Only if it appears as the first series of characters at the start of a line....testing now  
